@@ -1,0 +1,19 @@
+This is a basic emulator for a very early, very simple T42.
+
+It is written in Python.
+
+You can run it simply using:
+
+python t42.py
+
+At present, the program is embedded in the file and instructions need to
+be manually created by shifting into the right parts of the instruction 
+word. 
+
+Todo:
+
+1. Make processors run separate programs
+2. Make the construction of programs in assembler possible, separated out
+3. Test channels and alternatives properly
+4. Restructure so that testing code is separate to classes
+5. Probably shitloads more

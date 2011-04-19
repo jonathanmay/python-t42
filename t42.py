@@ -1,3 +1,8 @@
+# License: See LICENSE file
+# 
+# Copyright (c) 2011 Jonathan May (jonathan@xfund.com).
+# All rights reserved.
+
 mem_size = 256
 NONEVALID = 999999
 SUCCESSOUT = -999999
